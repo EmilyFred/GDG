@@ -17,7 +17,7 @@ you didn't come or missed it, here are:
 - Press `Esc` and then write `:wq` - in order to exit the file and save it;
 - Press `Esc` and then write `:q!` - in order to exit the file without saving it;
 
-## Step 1: Let's talk about HTML
+## Lesson 1: Let's talk about HTML
 
 I highly recommend start writing your `.html` files locally on computer
 and run them. If you experience any problems, [Thimble](https://thimble.mozilla.org) is a
@@ -102,6 +102,10 @@ Climbing indoors | 1 - unimportant
 Coding at work | 3 - average
 Sleeping | 4 - pretty high
 Cooking | 5 - highest
+
+Once you are done with your `HTML` page, upload it to `/homework` folder in this directory by doing fork (if you haven't done so) and then changing it locally on your repository and making a pull request
+
+
 
 Here are some of my recommendations to go through:
 - [HTML game](https://www.w3schools.com/html/exercise.asp) - highly suggest this game to learn more
