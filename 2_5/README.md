@@ -20,7 +20,7 @@ you didn't come or missed it, here are:
 ## Step 1: Let's talk about HTML
 
 I highly recommend start writing your `.html` files locally on computer
-and run them. If you experience any problems, ![Thimble](https://thimble.mozilla.org) is a
+and run them. If you experience any problems, [Thimble](https://thimble.mozilla.org) is a
 good source (You can click on `Start a scratch project`).
 
 ### Structure
@@ -42,10 +42,10 @@ Let me explain it line by line:
 - `<!DOCTYPE html>` - that means that you show to a web browser that it will be an `html` file;
 - `<html>` - is a mandatory tag that shows a web browser that you started running html code;
 - `<head>` - that is an interesting one, usually used to include any of the scripts, title of a page,
-![etc](https://www.w3schools.com/tags/tag_head.asp);
+[etc](https://www.w3schools.com/tags/tag_head.asp);
 - `<title>` - that is a title of your page, it will be represented in a tab in your browser;
 - `<body>` - that is a tag in which you would want to write everything (including your web page
-  structure), ![more info](https://www.w3schools.com/tags/tag_body.asp)
+  structure), [more info](https://www.w3schools.com/tags/tag_body.asp)
 
 Does it make sense? If not, it will make sense later. Do not worry much about it, but please try to
 read some of the resources.
@@ -63,7 +63,7 @@ Jessica | Cat
 
 Let's think about how we will tackle this issue, shall we?
 
-Well, we have three rows and two columns. Then according to ![this](https://html.com/tables/) article,
+Well, we have three rows and two columns. Then according to [this](https://html.com/tables/) article,
 we would want to use tags `table` to declare the table, `tr` three times to represent our rows, and
 `th` with `td` to represent values (Names and Favorite Colors) in the given table.
 
@@ -104,9 +104,9 @@ Sleeping | 4 - pretty high
 Cooking | 5 - highest
 
 Here are some of my recommendations to go through:
-- ![HTML game](https://www.w3schools.com/html/exercise.asp) - highly suggest this game to learn more
+- [HTML game](https://www.w3schools.com/html/exercise.asp) - highly suggest this game to learn more
 about html;
-- ![Great HTML Game](https://codecombat.com) - this is truly a great game, it's interactive;
-- ![If you feel lost about html](http://htmldog.com/guides/) - great recap, good tutorials;
-- ![Go-to site for references](https://html.com) - some of their tutorials are dry but I highly recommend
+- [Great HTML Game](https://codecombat.com) - this is truly a great game, it's interactive;
+- [If you feel lost about html](http://htmldog.com/guides/) - great recap, good tutorials;
+- [Go-to site for references](https://html.com) - some of their tutorials are dry but I highly recommend
 them if you are curios;
